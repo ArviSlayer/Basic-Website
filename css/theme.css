@@ -1,0 +1,232 @@
+.background {
+  background-color: rgba(8, 86, 193, 0.4);
+}
+
+.preloader .spinner .double-bounce1,
+.preloader .spinner .double-bounce2 {
+  background: #0856c1;
+}
+
+.lnk:hover,
+.button:hover {
+  color: #0856c1;
+}
+
+.lnk:hover .ion,
+.button:hover .ion {
+  color: #0856c1;
+}
+
+.lnk:hover .arrow:before,
+.button:hover .arrow:before,
+.lnk:hover .arrow:after,
+.button:hover .arrow:after {
+  background: #0856c1;
+}
+
+input:focus,
+textarea:focus,
+button:focus {
+  border-bottom: 1px solid #0856c1;
+}
+
+button:hover {
+  border-bottom: 1px solid #0856c1;
+}
+
+.header .top-menu ul li:hover a,
+.header .top-menu ul li.active a {
+  color: #0856c1;
+}
+
+.header .top-menu ul li:hover a .icon,
+.header .top-menu ul li.active a .icon,
+.header .top-menu ul li:hover a .link,
+.header .top-menu ul li.active a .link {
+  color: #0856c1;
+}
+
+.card-started:after {
+  background: -moz-linear-gradient(
+    -45deg,
+    rgba(8, 165, 193, 0.5) 0%,
+    rgba(178, 8, 193, 0.938) 100%
+  );
+  background: -webkit-linear-gradient(
+    -45deg,
+    rgba(8, 165, 193, 0.5) 0%,
+    rgba(178, 8, 193, 0.938) 100%
+  );
+  background: linear-gradient(
+    135deg,
+    rgba(8, 165, 193, 0.5) 0%,
+    rgba(178, 8, 193, 0.938) 100%
+  );
+}
+
+.card-started .profile .image:before {
+  background: -moz-linear-gradient(
+    -45deg,
+    rgba(8, 86, 193, 0.4) 0%,
+    rgba(8, 86, 193, 0.01) 100%
+  );
+  background: -webkit-linear-gradient(
+    -45deg,
+    rgba(8, 86, 193, 0.4) 0%,
+    rgba(8, 86, 193, 0.01) 100%
+  );
+  background: linear-gradient(
+    135deg,
+    rgba(8, 86, 193, 0.4) 0%,
+    rgba(8, 85, 193, 0.76) 100%
+  );
+}
+
+.card-started .profile .subtitle {
+  color: #0856c1;
+}
+
+.card-started .profile .social a:hover .ion,
+.card-started .profile .social a:hover .fab,
+.card-started .profile .social a:hover .fas {
+  color: #0856c1;
+}
+
+/* .content .title:before {
+	background: -moz-linear-gradient(-45deg, rgba(8, 86, 193, 0.4) 0%, rgba(8, 86, 193, 0.01) 100%);
+	background: -webkit-linear-gradient(-45deg, rgba(8, 86, 193, 0.4) 0%, rgba(8, 86, 193, 0.01) 100%);
+	background: linear-gradient(135deg, rgba(8, 86, 193, 0.4) 0%, rgba(8, 86, 193, 0.01) 100%);
+} */
+
+.service-items .service-item .icon {
+  color: #0856c1;
+  background: -moz-linear-gradient(
+    -45deg,
+    rgba(8, 86, 193, 0.4) 0%,
+    rgba(8, 86, 193, 0.01) 100%
+  );
+  background: -webkit-linear-gradient(
+    -45deg,
+    rgba(8, 86, 193, 0.4) 0%,
+    rgba(8, 86, 193, 0.01) 100%
+  );
+  background: linear-gradient(
+    135deg,
+    rgba(8, 86, 193, 0.4) 0%,
+    rgba(8, 86, 193, 0.01) 100%
+  );
+}
+
+.pricing-items .pricing-item .icon {
+  color: #0856c1;
+}
+
+.pricing-items .pricing-item .feature-list ul li strong {
+  background: rgba(8, 86, 193, 0.4);
+}
+
+.fuct-items .fuct-item .icon {
+  color: #0856c1;
+}
+
+.resume-title .icon,
+.skill-title .icon {
+  color: #0856c1;
+}
+
+.resume-items .resume-item.active .date {
+  color: #0856c1;
+}
+
+.resume-items .resume-item.active .date:before {
+  background: #0856c1;
+}
+
+.skills-list ul li .progress .percentage {
+  background: #0856c1;
+}
+
+.content.works .filter-menu .f_btn.active {
+  color: #0856c1;
+}
+
+.box-item .image .info:before {
+  background: -moz-linear-gradient(
+    -45deg,
+    rgba(8, 86, 193, 0.4) 0%,
+    rgba(8, 86, 193, 0.01) 100%
+  );
+  background: -webkit-linear-gradient(
+    -45deg,
+    rgba(8, 86, 193, 0.4) 0%,
+    rgba(8, 86, 193, 0.01) 100%
+  );
+  background: linear-gradient(
+    135deg,
+    rgba(8, 86, 193, 0.4) 0%,
+    rgba(8, 86, 193, 0.01) 100%
+  );
+}
+
+.post-box .blog-content blockquote {
+  border-left: 2px solid #0856c1;
+}
+
+.post-box .blog-content ul.list-style li:before {
+  background: #0856c1;
+}
+
+.post-box .post-comments li .comment-info .name h6 {
+  color: #0856c1;
+}
+
+.background.gradient {
+  background: #1757cf;
+  background: -webkit-linear-gradient(
+    333deg,
+    #1757cf 0%,
+    rgb(144, 28, 155) 100%
+  );
+  background: linear-gradient(333deg, #1757cf 0%, rgb(144, 28, 155) 100%);
+}
+
+.dots {
+  background: -moz-radial-gradient(
+      rgba(255, 255, 255, 0.2) 15%,
+      transparent 16%
+    ),
+    -moz-radial-gradient(rgba(255, 255, 255, 0.2) 15%, transparent 16%);
+  background: -webkit-radial-gradient(
+      rgba(255, 255, 255, 0.2) 15%,
+      transparent 16%
+    ),
+    -webkit-radial-gradient(rgba(255, 255, 255, 0.2) 15%, transparent 16%);
+  -webkit-background-size: 15px 15px;
+  -moz-background-size: 15px 15px;
+  background-size: 15px 15px;
+  width: 10vw;
+  height: 20vh;
+  position: fixed;
+}
+
+.dotsDown {
+  top: 68% !important;
+  left: 21% !important;
+}
+
+.dotsUp {
+  top: 13% !important;
+  left: 66% !important;
+}
+#scene {
+  width: 100%;
+  height: 100%;
+}
+.pictures1 {
+  top: 25% !important;
+  left: 12% !important;
+}
+.pictures2 {
+  top: 62% !important;
+  left: 75% !important;
+}
